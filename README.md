@@ -5,11 +5,12 @@
 
 ## Installation
 ```shell
+source ./bin/activate
 pip install --upgrade firebase-admin
 ```
 
 ## Configurations
-먼저, config/ 디렉토리 내에 firebase에서 제공하는 admin sdk 비공개 키 json 파일을 위치시켜야 합니다.
+먼저, config/ 디렉토리를 생성하고 디렉토리 내에 firebase에서 제공하는 admin sdk 비공개 키 json 파일을 위치시켜야 합니다.
 
 다음으로, **handler.py**를 열고,
 
