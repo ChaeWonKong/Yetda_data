@@ -1,0 +1,170 @@
+id,name,price,tag1,tag2,tag3,tag4,tag5,tag6,tag7,tag8,image
+1,네잎클로버,0,감성,연인,친구,마음,,,,,https://firebasestorage.googleapis.com/v0/b/yetda-d4506.appspot.com/o/present_clover.png?alt=media&token=db407bfa-0729-48a8-87c6-92971eeb290e
+2,학천마리,0,감성,연인,마음,,,,,,https://firebasestorage.googleapis.com/v0/b/yetda-d4506.appspot.com/o/present_hak.png?alt=media&token=bc14cc54-efa5-4d57-89a3-3563b0aeaf3c
+3,손편지,0,마음,,,,,,,,
+4,머니건,10000,쓸없선,,,,,,,,
+5,예쁜 쓰레기,20000,쓸없선,,,,,,,,
+6,관종모자,10000,쓸없선,,,,,,,,
+7,전남친사진,0,쓸없선,마음,,,,,,,
+8,슈프림벽돌,60000,쓸없선,,,,,,,,
+9,현금,100000,실용,,,,,,,,https://firebasestorage.googleapis.com/v0/b/yetda-d4506.appspot.com/o/present_money.png?alt=media&token=ee4da888-399e-44ba-86ee-4d4e81d77a09
+10,돈다발,500000,실용,,,,,,,,https://firebasestorage.googleapis.com/v0/b/yetda-d4506.appspot.com/o/present_money.png?alt=media&token=ee4da888-399e-44ba-86ee-4d4e81d77a09
+11,빌딩,0,,,,,,,,,
+12,생일빵,0,,,,,,,,,
+13,양키캔들 세트,0,,,,,,,,,https://firebasestorage.googleapis.com/v0/b/yetda-d4506.appspot.com/o/present_candle.png?alt=media&token=6196ab1e-1ae8-4a44-9826-693a9f694f3d
+14,양키캔들,35000,실용,향,,,,,,,https://firebasestorage.googleapis.com/v0/b/yetda-d4506.appspot.com/o/present_candle.png?alt=media&token=6196ab1e-1ae8-4a44-9826-693a9f694f3d
+15,우드윅 캔들,45000,실용,향,,,,,,,https://firebasestorage.googleapis.com/v0/b/yetda-d4506.appspot.com/o/present_candle.png?alt=media&token=6196ab1e-1ae8-4a44-9826-693a9f694f3d
+16,캔들 워머,37000,실용,인테리어,,,,,,,https://firebasestorage.googleapis.com/v0/b/yetda-d4506.appspot.com/o/present_candle.png?alt=media&token=6196ab1e-1ae8-4a44-9826-693a9f694f3d
+17,직접 만든 향초,30000,수제,,,,,,,,https://firebasestorage.googleapis.com/v0/b/yetda-d4506.appspot.com/o/present_candle.png?alt=media&token=6196ab1e-1ae8-4a44-9826-693a9f694f3d
+18,디퓨저,20000,실용,향,,,,,,,
+19,조말론 디퓨저,80000,실용,향,,,,,,,
+20,차량용방향제,5000,향,,,,,,,,
+21,무드등,30000,감성,인테리어,,,,,,,
+22,커스텀 무드등,50000,감성,커스텀,,,,,,,
+23,LP판,50000,감성,음악,,,,,,,https://firebasestorage.googleapis.com/v0/b/yetda-d4506.appspot.com/o/present_lp.png?alt=media&token=8a802135-57ce-4aff-9c3c-ba59702e3401
+24,폴라로이드카메라,180000,감성,기록,,,,,,,https://firebasestorage.googleapis.com/v0/b/yetda-d4506.appspot.com/o/present_camera.png?alt=media&token=3a16b16f-e43f-4c92-84d7-341b73dd7242
+25,폴라로이드 카메라 미니,90000,감성,기록,,,,,,,https://firebasestorage.googleapis.com/v0/b/yetda-d4506.appspot.com/o/present_camera.png?alt=media&token=3a16b16f-e43f-4c92-84d7-341b73dd7242
+26,캐논 EOS M50,650000,기록,,,,,,,,https://firebasestorage.googleapis.com/v0/b/yetda-d4506.appspot.com/o/present_camera.png?alt=media&token=3a16b16f-e43f-4c92-84d7-341b73dd7242
+27,캐논 EOS 600D,220000,기록,,,,,,,,https://firebasestorage.googleapis.com/v0/b/yetda-d4506.appspot.com/o/present_camera.png?alt=media&token=3a16b16f-e43f-4c92-84d7-341b73dd7242
+28,폰케이스,20000,핸드폰,,,,,,,,
+29,커스텀 폰케이스,15000,핸드폰,커스텀,,,,,,,
+30,커스텀 드로잉 폰케이스,25000,핸드폰,커스텀,,,,,,,
+31,그립톡,12000,핸드폰,,,,,,,,
+32,커스텀 그립톡,10000,핸드폰,커스텀,,,,,,,
+33,정관장,50000,건강,실용,식품,,,,,,https://firebasestorage.googleapis.com/v0/b/yetda-d4506.appspot.com/o/present_vitamin.png?alt=media&token=7de4a8cf-eb57-438c-b3e9-9c7186aedbc9
+34,영양제,40000,건강,식품,,,,,,,https://firebasestorage.googleapis.com/v0/b/yetda-d4506.appspot.com/o/present_vitamin.png?alt=media&token=7de4a8cf-eb57-438c-b3e9-9c7186aedbc9
+35,종합비타민,30000,건강,식품,,,,,,,https://firebasestorage.googleapis.com/v0/b/yetda-d4506.appspot.com/o/present_vitamin.png?alt=media&token=7de4a8cf-eb57-438c-b3e9-9c7186aedbc9
+36,마사지기,50000,건강,실용,,,,,,,
+37,손풍기,15000,여름,실용,,,,,,,
+38,수영복,40000,여름,,,,,,,,
+39,다이어리,20000,겨울,기록,,,,,,,
+40,달력,10000,겨울,,,,,,,,
+41,직접 만든 달력,10000,수제,,,,,,,,
+42,롱패딩,300000,겨울,실용,,,,,,,
+43,경량 롱패딩,150000,겨울,실용,,,,,,,
+44,목도리/장갑,20000,겨울,실용,,,,,,,
+45,손수 짠 목도리,30000,수제,,,,,,,,
+46,내복,20000,겨울,실용,집순이,,,,,,
+47,베드트레이,25000,집순이,실용,,,,,,,
+48,미니 빔 프로젝터,60000,집순이,실용,,,,,,,
+49,스마트폰 거치대,10000,집순이,실용,,,,,,,
+50,잠옷,30000,집순이,,,,,,,,
+51,속옷,25000,연인,,,,,,,,
+52,커플속옷,40000,연인,,,,,,,,
+53,커플잠옷,60000,연인,,,,,,,,
+54,커플링,100000,연인,,,,,,,,
+55,아이스크림쿠폰,8000,원격,식품,,,,,,,https://firebasestorage.googleapis.com/v0/b/yetda-d4506.appspot.com/o/present_giftycon.png?alt=media&token=aea39a99-4848-4395-a9e4-506e6b073712
+56,카카오톡 이모티콘,3000,원격,,,,,,,,https://firebasestorage.googleapis.com/v0/b/yetda-d4506.appspot.com/o/present_emoji.png?alt=media&token=10531f5c-c5a5-4eec-88e5-aa262ea36a09
+57,기프티콘,20000,원격,실용,,,,,,,https://firebasestorage.googleapis.com/v0/b/yetda-d4506.appspot.com/o/present_giftycon.png?alt=media&token=aea39a99-4848-4395-a9e4-506e6b073712
+58,치킨 기프티콘,0,,,,,,,,,https://firebasestorage.googleapis.com/v0/b/yetda-d4506.appspot.com/o/present_giftycon.png?alt=media&token=aea39a99-4848-4395-a9e4-506e6b073712
+59,케이크,0,,,,,,,,,https://firebasestorage.googleapis.com/v0/b/yetda-d4506.appspot.com/o/present_ordercake.png?alt=media&token=59d9538f-e822-4e9b-ab19-c588f80fa932
+60,주문케이크,50000,커스텀,,,,,,,,https://firebasestorage.googleapis.com/v0/b/yetda-d4506.appspot.com/o/present_ordercake.png?alt=media&token=59d9538f-e822-4e9b-ab19-c588f80fa932
+61,핸드메이드 케이크,70000,수제,,,,,,,,https://firebasestorage.googleapis.com/v0/b/yetda-d4506.appspot.com/o/present_ordercake.png?alt=media&token=59d9538f-e822-4e9b-ab19-c588f80fa932
+62,향수,60000,뷰티,향,,,,,,,https://firebasestorage.googleapis.com/v0/b/yetda-d4506.appspot.com/o/present_perfume.png?alt=media&token=3cb602ea-2fee-4279-b1ff-bd769a729f49
+63,립스틱,30000,뷰티,여성,,,,,,,
+64,목걸이,50000,패션,액세서리,,,,,,,
+65,귀걸이,20000,패션,액세서리,여성,,,,,,
+66,피어씽,30000,패션,액세서리,,,,,,,
+67,시계,30000,패션,액세서리,실용,,,,,,https://firebasestorage.googleapis.com/v0/b/yetda-d4506.appspot.com/o/present_watch.png?alt=media&token=550f23fb-6fdd-44af-8a8a-0f9122859e64
+68,로이드 시계,40000,패션,액세서리,실용,,,,,,https://firebasestorage.googleapis.com/v0/b/yetda-d4506.appspot.com/o/present_watch.png?alt=media&token=550f23fb-6fdd-44af-8a8a-0f9122859e64
+69,티쏘 시계,300000,패션,액세서리,실용,,,,,,https://firebasestorage.googleapis.com/v0/b/yetda-d4506.appspot.com/o/present_watch.png?alt=media&token=550f23fb-6fdd-44af-8a8a-0f9122859e64
+70,오메가 시계,3500000,패션,액세서리,실용,,,,,,https://firebasestorage.googleapis.com/v0/b/yetda-d4506.appspot.com/o/present_watch.png?alt=media&token=550f23fb-6fdd-44af-8a8a-0f9122859e64
+71,팔찌,30000,패션,액세서리,,,,,,,
+72,선글라스,60000,패션,,,,,,,,
+73,지갑,0,,,,,,,,,
+74,명품지갑,500000,패션,,,,,,,,
+75,블루투스이어폰,100000,실용,,,,,,,,
+76,노트북,1200000,실용,,,,,,,,
+77,구찌지우개,150000,문구,,,,,,,,
+78,에르메스 연필,75000,문구,,,,,,,,
+79,만년필,30000,문구,,,,,,,,
+80,마카롱,20000,식품,디저트,,,,,,,https://firebasestorage.googleapis.com/v0/b/yetda-d4506.appspot.com/o/present_desert.png?alt=media&token=b49716c1-d6bd-4692-94c9-48c61178a78e
+81,차(마시는),30000,식품,,,,,,,,
+82,안마기,100000,실용,건강,전자기기,,,,,,
+83,전기면도기,100000,실용,남성,전자기기,,,,,,
+84,면도기,10000,실용,,,,,,,,
+85,풍경,30000,인테리어,,,,,,,,
+86,화분,15000,인테리어,,,,,,,,
+87,샤워 가운,25000,패션,,,,,,,,
+88,텀블러,0,,,,,,,,,https://firebasestorage.googleapis.com/v0/b/yetda-d4506.appspot.com/o/present_cub.png?alt=media&token=a0a7dcfa-24b7-4cfa-a1a1-e2de0d1a5b39
+89,책,15000,마음,,,,,,,,
+90,인형/피규어,100000,덕질,,,,,,,,
+91,러그,20000,인테리어,,,,,,,,
+92,콘서트 티켓,150000,음악,,,,,,,,
+93,앨범,20000,감성,,,,,,,,
+94,꽃다발,30000,감성,,,,,,,,
+95,초콜릿,10000,식품,디저트,,,,,,,
+96,LED마스크팩,250000,전자기기,40+,,,,,,,
+97,레깅스,40000,운동,여성,,,,,,,
+98,언더아머 운동복,40000,운동,남성,,,,,,,
+99,요가매트,20000,운동,실용,,,,,,,
+100,텔레비전 55인치,500000,전자기기,,,,,,,,
+101,텔레비전 75인치,1600000,전자기기,,,,,,,,
+102,와플기계,40000,전자기기,요리,,,,,,,
+103,에어프라이어,50000,전자기기,요리,,,,,,,
+104,접이식 전기포트,40000,전자기기,,,,,,,,
+105,커피머신,200000,전자기기,,,,,,,,
+106,식기세트,300000,실용,요리,,,,,,,
+107,다기세트,60000,실용,요리,,,,,,,
+108,아이패드,500000,전자기기,앱등이,,,,,,,
+109,에어팟,150000,전자기기,앱등이,,,,,,,
+110,에어팟프로,300000,전자기기,앱등이,,,,,,,
+111,맥북,1500000,전자기기,앱등이,,,,,,,
+112,애플워치,250000,전자기기,앱등이,,,,,,,
+113,스마트워치,300000,전자기기,액세서리,실용,,,,,,
+114,와인,20000,성인,,,,,,,,https://firebasestorage.googleapis.com/v0/b/yetda-d4506.appspot.com/o/present_drinks.png?alt=media&token=a0dc01d8-bf8a-427d-99ec-b1660f1ad170
+115,소주,4000,성인,,,,,,,,https://firebasestorage.googleapis.com/v0/b/yetda-d4506.appspot.com/o/present_drinks.png?alt=media&token=a0dc01d8-bf8a-427d-99ec-b1660f1ad170
+116,잭다니엘 허니,50000,성인,,,,,,,,https://firebasestorage.googleapis.com/v0/b/yetda-d4506.appspot.com/o/present_drinks.png?alt=media&token=a0dc01d8-bf8a-427d-99ec-b1660f1ad170
+117,돔페리뇽 빈티지 로제,500000,성인,,,,,,,,https://firebasestorage.googleapis.com/v0/b/yetda-d4506.appspot.com/o/present_drinks.png?alt=media&token=a0dc01d8-bf8a-427d-99ec-b1660f1ad170
+118,돔페리뇽 빈티지,280000,성인,,,,,,,,https://firebasestorage.googleapis.com/v0/b/yetda-d4506.appspot.com/o/present_drinks.png?alt=media&token=a0dc01d8-bf8a-427d-99ec-b1660f1ad170
+119,모엣샹동,80000,성인,,,,,,,,https://firebasestorage.googleapis.com/v0/b/yetda-d4506.appspot.com/o/present_drinks.png?alt=media&token=a0dc01d8-bf8a-427d-99ec-b1660f1ad170
+120,모스카토 와인,35000,성인,,,,,,,,https://firebasestorage.googleapis.com/v0/b/yetda-d4506.appspot.com/o/present_drinks.png?alt=media&token=a0dc01d8-bf8a-427d-99ec-b1660f1ad170
+121,드림 카,50000000,성인,차,,,,,,,
+122,신시사이저(전자피아노),500000,전자기기,음악,,,,,,,
+123,스피커,30000,음악,,,,,,,,
+124,헤드셋,60000,음악,,,,,,,,
+125,지프로 무선마우스,160000,컴퓨터,실용,게임,,,,,,
+126,게이밍 마우스,40000,컴퓨터,실용,게임,,,,,,
+127,로지텍 버티컬 마우스,110000,컴퓨터,실용,건강,,,,,,
+128,버티컬 마우스,22000,컴퓨터,실용,건강,,,,,,
+129,마우스,18000,컴퓨터,실용,,,,,,,
+130,태블릿,150000,컴퓨터,실용,기록,,,,,,
+131,게이밍 모니터 31.5인치,450000,컴퓨터,실용,게임,,,,,,
+132,게이밍 모니터 27인치,230000,컴퓨터,실용,게임,,,,,,
+133,컴퓨터모니터,200000,컴퓨터,실용,,,,,,,
+134,방송용 마이크,100000,관종,,,,,,,,
+135,방송용 조명,50000,관종,,,,,,,,
+136,삼각대 셀카봉,25000,관종,실용,,,,,,,
+137,스마트폰 짐벌,150000,관종,실용,,,,,,,
+138,닌텐도 스위치,360000,게임,인싸,전자기기,,,,,,
+139,닌텐도 스위치 라이트,230000,게임,인싸,전자기기,,,,,,
+140,닌텐도 게임칩,60000,게임,인싸,,,,,,,
+141,PS4 프로,420000,게임,아싸,,,,,,,
+142,PS4 무선 컨트롤러,65000,게임,,,,,,,,
+143,보드게임,30000,게임,인싸,,,,,,,
+144,스팀게임,25000,게임,,,,,,,,
+145,쌤소나이트 브리프케이스,100000,패션,가방,실용,,,,,,
+146,브리프케이스,50000,패션,가방,실용,,,,,,
+147,클러치 백,80000,패션,가방,여성,,,,,,
+148,캔버스 가방,30000,패션,가방,,,,,,,
+149,록시땅 핸드크림,30000,뷰티,실용,,피부,,,,,https://firebasestorage.googleapis.com/v0/b/yetda-d4506.appspot.com/o/present_handcream.png?alt=media&token=2d030361-09d1-48dd-846c-d22fbc72651b
+150,카밀 핸드크림,12000,뷰티,실용,,피부,,,,,https://firebasestorage.googleapis.com/v0/b/yetda-d4506.appspot.com/o/present_handcream.png?alt=media&token=2d030361-09d1-48dd-846c-d22fbc72651b
+151,유리아쥬 립밤,12000,뷰티,실용,,피부,,,,,
+152,버츠비 비즈왁스 립밤,4000,뷰티,실용,,피부,,,,,
+153,버츠비 자몽 립밤,4000,뷰티,실용,향,피부,,,,,
+154,스킨케어,0,,,,,,,,,
+155,아벤느 미스트,9000,실용,피부,,,,,,,
+156,메이크업포에버 픽스 미스트,29000,실용,여성,피부,,,,,,
+157,AHC 아이크림,5000,실용,여성,피부,,,,,,
+158,나랑 밥 한 끼!,40000,대면,,,,,,,,
+159,나랑 커피 한 잔!,20000,대면,,,,,,,,
+160,나랑 영화 한 편!,30000,대면,,,,,,,,
+161,후드,60000,패션,캐주얼,,,,,,,
+162,맨투맨,70000,패션,캐주얼,,,,,,,
+163,펌프스 구두,60000,격식,,,,,,,,
+164,캐주얼 정장,200000,격식,,,,,,,,
+165,셔츠,30000,실용,,,,,,,,
+166,넥타이,30000,실용,남성,,,,,,,
+167,신발,100000,패션,실용,,,,,,,
+168,캐리어 네임택,8000,여행,실용,,,,,,,
+169,여권케이스,30000,여행,,,,,,,,

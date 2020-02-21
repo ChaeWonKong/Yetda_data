@@ -38,7 +38,7 @@ def write_question(row):
 
 
 # Read All Data from present list csv
-with open("raw_data/yetda_sample_list_2002211939.csv", "r", encoding="utf-8", newline="") as rf:
+with open("raw_data/presents.csv", "r", encoding="utf-8", newline="") as rf:
     reader = csv.reader(rf)
     for row in reader:
         if row[0] == "id":
@@ -48,7 +48,7 @@ with open("raw_data/yetda_sample_list_2002211939.csv", "r", encoding="utf-8", ne
     rf.close()
 
 # Read All Data from question list csv
-with open("raw_data/yetda_question_list.csv", "r", encoding="utf-8", newline="") as rf:
+with open("raw_data/questions.csv", "r", encoding="utf-8", newline="") as rf:
     reader = csv.reader(rf)
     for row in reader:
         if row[0] == 'id':
