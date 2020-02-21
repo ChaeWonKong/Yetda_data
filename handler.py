@@ -12,7 +12,7 @@ db = firestore.client()
 
 
 # Writing Data to DB
-def write_db(row):
+def write_present(row):
     tags = row[3:]
     refined_tags = []
     for tag in tags:
@@ -21,19 +21,39 @@ def write_db(row):
 
     doc_ref = db.collection(u'presents').document(row[0])
     doc_ref.set({
+        u'id': int(row[0]),
         u'name': row[1],
         u'price': int(row[2]) if row[2] else 0,
         u'tags': refined_tags
     })
 
 
-# Read All Data from csv
-with open("raw_data/yetda_sample_list.csv", "r", encoding="utf-8", newline="") as rf:
+def write_question(row):
+    doc_ref = db.collection(u'question').document(row[0])
+    doc_ref.set({
+        u'id': int(row[0]),
+        u'tag': row[1],
+        u'question': row[2]
+    })
+
+
+# Read All Data from present list csv
+with open("raw_data/yetda_sample_list_2002211939.csv", "r", encoding="utf-8", newline="") as rf:
     reader = csv.reader(rf)
     for row in reader:
         if row[0] == "id":
             continue
-        write_db(row)
+        write_present(row)
+
+    rf.close()
+
+# Read All Data from question list csv
+with open("raw_data/yetda_question_list.csv", "r", encoding="utf-8", newline="") as rf:
+    reader = csv.reader(rf)
+    for row in reader:
+        if row[0] == 'id':
+            continue
+        write_question(row)
 
     rf.close()
 
